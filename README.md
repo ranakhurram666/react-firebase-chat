@@ -6,8 +6,8 @@
 * `npm start`
 * visit http://localhost:3000/
 * Use your own Firebase Credentials
+* Copy and paste your Credentials from your Firebase App into src/firebase.js
 
 ### Use your own Firebase Credentials
 
-* visit https://firebase.google.com/ and create a Firebase App
-* copy and paste your Credentials from your Firebase App into src/firebase.js
+* Visit https://firebase.google.com/ and create a Firebase App
