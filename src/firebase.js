@@ -1,10 +1,10 @@
 import * as firebase from 'firebase';
 
 const config = {
-  apiKey: 'apiKey',
-  authDomain: 'projectId.firebaseapp.com',
-  databaseURL: 'https://databaseName.firebaseio.com',
-  storageBucket: 'bucket.appspot.com'
+  apiKey: 'you-api-key',
+  authDomain: '<project-id>.firebaseapp.com',
+  databaseURL: 'https://<project-id>.firebaseio.com',
+  storageBucket: '<project-id>.appspot.com'
 };
 
 firebase.initializeApp(config);
